@@ -24,8 +24,12 @@ npm start
 =======
 # api-crud-phone
 api  - crud - phone , using node js  and  data base  mongo db atlas
->>>>>>> efea863cc45bcebf0a9c33a782a13db97b5c2364
+
+# Support
+waldirmendozahuaman887@gmail.com
 # Autor
 Waldir mendoza huaman
 # Projects status
 finished-api 
+# Visuals
+![Create phone](/src//assetsgit//crud-create.png)
