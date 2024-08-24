@@ -31,5 +31,13 @@ waldirmendozahuaman887@gmail.com
 Waldir mendoza huaman
 # Projects status
 finished-api 
+
 # Visuals
 ![Create phone](/src//assetsgit//crud-create.png)
+# Visual environments
+
+![Environments](/src//assetsgit//environments.png)
+
+# Visual .env 
+![Image .env](/src//assetsgit//env.png)
+
