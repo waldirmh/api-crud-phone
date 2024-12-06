@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 ### My API
-This is a crud api using nodejs and monogo db data base
+This is a crud api using nodejs and mongo db data base
 ### Usage
 use postman for testing 
 ### Installation  (Recommended)
